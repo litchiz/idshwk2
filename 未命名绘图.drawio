@@ -319,7 +319,7 @@
             <mxPoint x="1102" y="356.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dRLYrWtj4GT_OisPDWlN-160" value="对无标签数据，使用多变量分块CPC模块与预训练后的头部比特transformer模型进行特征提取，对高于动态置信度阈值的样本添加伪标签，与有标签数据集合并，训练" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dRLYrWtj4GT_OisPDWlN-160" value="对无标签数据，使用多变量分块CPC模块与预训练后的头部比特transformer模型进行特征提取，对高于动态置信度阈值的样本添加伪标签，与有标签数据集合并，进行训练" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="490" width="310" height="115" as="geometry" />
         </mxCell>
         <mxCell id="dRLYrWtj4GT_OisPDWlN-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
